@@ -2266,7 +2266,7 @@ document.addEventListener('DOMContentLoaded', function () {
     container.addEventListener('click', function(event) {
         const productId = event.target.closest('.product').querySelector('.product-id').textContent;
         if (productId) {
-            window.location.href = `https://wa.me/554195904189?text=${productId}`;    
+            window.location.href = `https://wa.me/554195904189?text=Olá%20tenho%20interesse%20em%20saber%20sobre%20este%20produto%20${productId}`;    
 
         }
 
