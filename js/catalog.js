@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function () {
             id: 'TP105070',
             nome: 'A/C Compressor BMW E46 318i, 320i, 316i, 318i 1998 - 2005',
             categorias: ['Ac Compressores', 'BMW'],
-            imagem: 'compressor-de-ac-bmw-e46-318i-320i-316i-318i-1998-a-2005_1_1623959440.WEBP'
+            imagem: 'https://raw.githubusercontent.com/TeknoPecas/teknopecas.github.io/main/assets/compressor-de-ac-bmw-e46-318i-320i-316i-318i-1998-a-2005_1_1623959440.webp'
         },
 
 
@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function () {
             id: 'TP104031',
             nome: 'A/C Compressor BMW E90, 116i, 120i, 316i, 320i, X1...(GREEN)',
             categorias: ['Ac Compressores', 'BMW'],
-            imagem: 'compressor-de-ac-bmw-e90-120i-316i-320i-x1green16137370331.WEBP'
+            imagem: 'https://raw.githubusercontent.com/TeknoPecas/teknopecas.github.io/main/assets/compressor-de-ac-bmw-e90-120i-316i-320i-x1green16137370331.webp'
         },
 
 
@@ -146,7 +146,7 @@ document.addEventListener('DOMContentLoaded', function () {
             id: 'TP101171',
             nome: 'A/C Compressor Chevrolet GM Cruze LTZ 1.4 Turbo 17 - 20(OEM)',
             categorias: ['Ac Compressores', 'Chevrolet'],
-            imagem: 'compressor-ac-chevrolet-gm-cruze-ltz-14-turbo-17a20oem_1_1617824191.webp'
+            imagem: 'https://raw.githubusercontent.com/TeknoPecas/teknopecas.github.io/main/assets/1_cm-gm-spin-onix-10-8v-2018a-nv-prisma-original-01b55bbdfea05938be9d0543e4e8dc3d.webp'
         },
 
 
